@@ -5,3 +5,4 @@ Use WASD to move the player
 Place the player near any garbage and use Arrow[up,down,right,left] to clean up the garbage.
 
 A basic Java OOP game.
+Enjoy.
