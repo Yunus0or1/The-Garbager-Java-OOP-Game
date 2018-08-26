@@ -1,0 +1,7 @@
+Story :
+
+A robot is placed in sylhet city to clean up the garbage,polluted water and plant new trees.
+Use WASD to move the player
+Place the player near any garbage and use Arrow[up,down,right,left] to clean up the garbage.
+
+A basic Java OOP game.
