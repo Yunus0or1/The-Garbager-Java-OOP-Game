@@ -4,5 +4,9 @@ A robot is placed in sylhet city to clean up the garbage,polluted water and plan
 Use WASD to move the player
 Place the player near any garbage and use Arrow[up,down,right,left] to clean up the garbage.
 
+I have not included jar file here because jar file of this project can not load the images.
+So it will be best if someone opens the full java file as the project by Netbeans or eclipse.
+But one can find the jar file here inside The Garbager\dist folder.
+
 A basic Java OOP game.
 Enjoy.
