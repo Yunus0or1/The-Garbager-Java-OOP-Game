@@ -12,6 +12,7 @@ import dev.Driden.project.GameCode;
 import dev.Driden.project.Handler;
 import dev.Driden.project.gfx.Assets;
 import java.awt.Graphics;
+import java.io.File;
 import java.io.FileNotFoundException;
 import tiles.Tile;
 
@@ -32,7 +33,13 @@ public  class GameState extends State {
          super(handler);
         
         
-         world = new World(handler ,"E:\\WorkStation\\Java Project\\TileGame\\src\\res\\textures\\Worlds\\world1.txt");
+         File fil = new File("src/res/textures/Worlds/world1.txt");
+         
+         String path = fil.getAbsolutePath() ;
+               
+         path = path.replace("\\", "/");
+            
+         world = new World(handler ,path);
          
          handler.setWorld (world);
          
