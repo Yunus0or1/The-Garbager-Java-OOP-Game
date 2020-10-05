@@ -20,7 +20,7 @@ So it will be best if someone opens the full java file as the project by **Netbe
 Open the project with netbeans/eclipse. Expand The Garbager, then expand ***Source Packages -> dev.Driden.project -> GameCode.java***. You can find the main method here. Clean, build and run the project.
 
 
-Some Screenshot : 
+# Screenshots
 
 1. The Game has just started : 
 
