@@ -1,7 +1,7 @@
 # The-Garbager-Java-OOP-Game
 A simple game written in Java OOP. This is purely for beginners.  This was my first project.
 
-# Story :
+# Story
 
 A robot is placed in sylhet city to clean up the garbage,polluted water and plant new trees. Use WASD to move the player. Place the player near any garbage and use Arrow [up,down,right,left] according to where the  garbage is located near the robot to clean up the garbage.
 
